@@ -1,4 +1,5 @@
-hey
-
-some update
-update from Gitkracken
+<<<<<<< Updated upstream
+dev.md
+=======
+new dev content
+>>>>>>> Stashed changes
